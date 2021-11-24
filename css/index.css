@@ -1,0 +1,121 @@
+body {
+    background-color: white;
+
+
+    /*background-image: url("../img/Fondo2.jpg");
+    background-size: cover;*/
+}
+
+
+/*titulos y subtitulos*/
+.titulo {
+    font-size: 3.5em;
+    text-align: center;
+}
+
+.titulo1 {
+    font-size: 2.3em;
+    text-align: left;
+    color: orange;
+}
+
+.titulo2 {
+    font-size: 2.3em;
+    text-align: center;
+    color: orange;
+}
+
+.titulo3 {
+    font-size: 2.3em;
+    text-align: center;
+    color: orange;
+}
+
+.titulo4 {
+    font-size: 2.5em;
+    text-align: center;
+    color: orange;
+}
+
+
+
+/*.f1 {
+    text-align: center;
+}*/
+
+
+/*texto*/
+.t1 {
+    font-size: 1.3em;
+}
+
+.t2 {
+    font-size: 1.8em;
+    color: blue;
+}
+
+.t3 {
+    font-size: 1em;
+}
+
+.t4 {
+    font-size: 1.3em;
+    text-align: center;
+}
+
+/*span*/
+.do1 {
+    color: blue;
+}
+
+.do2 {
+    color: orange;
+}
+
+
+/*imagenes*/
+.imagen1 {
+    width: 800px;
+    height: 500px;
+}
+
+.i1 {
+    text-align: center;
+}
+
+.imagen2 {
+    width: 40%;
+    height: 40%;
+}
+
+.i2 {
+    text-align: center;
+}
+
+.iamgen3 {
+    width: 30%;
+    height: 30%;
+}
+.i3 {
+    text-align: center;
+}
+
+.imagen4 {
+    width: 20%;
+    height: 20%;
+}
+
+.i4 {
+    text-align: center;
+}
+
+/*barra*/
+.barra {
+    color: cyan;
+}
+
+.b1 {
+    font-size: 1.1em;
+    color: black;
+}
+
